@@ -30,7 +30,7 @@ import {ReactComponent as SaveIcon} from "./assets/save.svg";
       <div className="d-flex w-75 justify-content-space mt-3">
         <FormControl
           className="w-75"
-          placeholder="Writa a todo"
+          placeholder="Write add todo"
           value={newTodo}
           onChange={taskInput}
         />
